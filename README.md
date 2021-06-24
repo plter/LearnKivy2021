@@ -3,7 +3,8 @@ LearnKivy 2021
 
 # 视频教程  
 
-[https://www.bilibili.com/video/BV1fo4y1k7DP](https://www.bilibili.com/video/BV1fo4y1k7DP)
+* [https://www.bilibili.com/video/BV1fo4y1k7DP](https://www.bilibili.com/video/BV1fo4y1k7DP)
+* [https://yunp.top/p/v/1532](https://yunp.top/p/v/1532)
 
 # 目录 
 
